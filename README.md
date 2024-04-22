@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mohammad-Arshad-Azeeze
-- 🌱 I’m a Flutter Development
+- 🌱 I’m a Flutter Developer
 - 📫 How to reach me-
 - Instagram - @arshad.azeeze
